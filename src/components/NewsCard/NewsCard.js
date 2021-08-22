@@ -35,7 +35,7 @@ const useStyles = makeStyles((theme) => ({
     flexDirection: "column",
     boxShadow:
       "0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12)",
-    borderRadius: 5,
+    borderRadius: 7,
   },
   media: {
     height: 0,
